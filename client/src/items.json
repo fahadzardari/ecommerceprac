@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "name": "Something",
+    "category": "Dessert",
+    "price": 199,
+    "discount":15,
+    "imgUrl": "./assets/4.jpg",
+    "serving": "1 Plate"
+  },
+  {
+    "id": 2,
+    "name": "Quorma",
+    "category":"Spices",
+    "price": 1199,
+    "discount":15,
+    "imgUrl": "./assets/1.jpg",
+    "serving": "1 Plate"
+  },
+  {
+    "id": 3,
+    "name": "Karahi",
+    "category": "Spices",
+    "price": 105,
+    "imgUrl": "./assets/2.jpg",
+    "discount":15,
+    "serving": "1 Plate"
+    
+  },
+  {
+    "id": 5,
+    "name": "Biryani",
+    "category":"Rice",
+    "price": 1400,
+    "discount":15,
+    "imgUrl": "./assets/3.jpg",
+    "serving": "1 Plate"
+  },
+  
+  {
+    "id": 6,
+    "name": "Biryani",
+    "category":"Rice",
+    "price": 1400,
+    "discount":15,
+    "imgUrl": "./assets/3.jpg",
+    "serving": "1 Plate"
+  }
+  ,
+  
+  {
+    "id": 7,
+    "name": "Biryani",
+    "category":"Rice",
+    "price": 1400,
+    "discount":15,
+    "imgUrl": "./assets/3.jpg",
+    "serving": "1 Plate"
+  }
+]
